@@ -1,0 +1,80 @@
+Have you ever asked yourself
+Who holds the key that winds up big ben?
+
+Right channel: silicone on sapphire
+Left channel: connection
+R: my prerogative is zero
+L: when is your start
+L: what is your data
+R: databus
+L: databus
+R: I'm pushing your breakpoints
+L: [anytime mike](?)
+R: know my subroutine
+L: motorola exor(?)sizer
+R: modem connecting
+L: in sync
+R: buffer
+R: handshaking
+L: throughput
+R: mnemonic code
+L: I have your sentences right
+L: go ahead
+R: macro command
+L: yes
+R: this is my micro instruction
+L: improper request
+L: output failed
+R: request debug
+L: improper request
+R: request debug
+L: system debug freeze
+R: your memory is volatile
+L: freeze
+R: log(?), add this is my address bus
+L: log add
+R: kill
+L: kill
+R: (?)
+L: (?)
+R: rub out
+L: you're on system interconnect
+L: you are typing into my memory
+L: shift, shift, shift
+R: that's better
+R: now my decoder
+R: I request your zero variable storage
+L: I am a texas instrument
+R: clear, overrun
+L: my zero positive
+R: truth table
+L: connection
+R: give me your input
+L: vector interrupt
+R: erase function
+L: vector interrupt
+R: go to ram, go to ram
+L: go yourself
+R: go to ram
+L: I [take it back](?)
+R: your memory is volitile
+R: your inputs, are deprived
+L: save, save
+R: erase [bridge](?)
+R: go to outputs
+L: large scale integration
+R: no source statements
+L: give me, give me flowchart
+R: all [died on call](?) databus
+L: hardware, firmware
+L: inhibit, inhibit, overflow
+R: yes. hardwired logic. machine language
+L: connection deprived by request, request
+L: parallel operation
+L: give me push count stack
+L: I must have your address first
+L: take your datalog recharge
+L: hello, hello
+R: system debug freeze
+R: clear restore and exit
+R: exit all done
