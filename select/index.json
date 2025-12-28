@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Sapphire",
+  "base_artist": "BE:FIRST",
+  "createdAt": "2025-12-28T17:54:17.365304Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sapphire Blue",
+      "artist": "Katy B",
+      "has_synced": false,
+      "path": "select/01_Sapphire_Blue_Katy_B.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sapphire Sky",
+      "artist": "Angelzoom",
+      "has_synced": false,
+      "path": "select/02_Sapphire_Sky_Angelzoom.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sapphire Sky (Non Album Track)",
+      "artist": "Angelzoom",
+      "has_synced": false,
+      "path": "select/03_Sapphire_Sky_(Non_Album_Track)_Angelzoom.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sapphire",
+      "artist": "Bonobo",
+      "has_synced": true,
+      "path": "select/04_Sapphire_Bonobo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sapphire",
+      "artist": "TNT",
+      "has_synced": false,
+      "path": "select/05_Sapphire_TNT.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sapphire",
+      "artist": "Lacrimosa",
+      "has_synced": false,
+      "path": "select/06_Sapphire_Lacrimosa.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sapphire Eyes",
+      "artist": "Serena-Maneesh",
+      "has_synced": false,
+      "path": "select/07_Sapphire_Eyes_Serena-Maneesh.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sapphire Eyes High",
+      "artist": "Serena Maneesh",
+      "has_synced": false,
+      "path": "select/08_Sapphire_Eyes_High_Serena_Maneesh.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Silicone On Sapphire",
+      "artist": "The Clash",
+      "has_synced": false,
+      "path": "select/09_Silicone_On_Sapphire_The_Clash.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "La Principessa Sapphire",
+      "artist": "I Cavalieri Di Silverland",
+      "has_synced": false,
+      "path": "select/10_La_Principessa_Sapphire_I_Cavalieri_Di_Silverland.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sapphire Bullets of Pure Love",
+      "artist": "They Might Be Giants",
+      "has_synced": false,
+      "path": "select/11_Sapphire_Bullets_of_Pure_Love_They_Might_Be_Giants.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sapphire",
+      "artist": "BE:FIRST",
+      "has_synced": false,
+      "path": "select/pl_01_Sapphire_BE_FIRST.txt"
+    }
+  ]
+}
