@@ -1,0 +1,64 @@
+# BE:FIRST – Sapphire
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+少し触れ合う視線
+仄かに香る雨
+揺れて漂うだけ
+焼きついた君の残像を残して
+見透かす様な冷めた眼
+本当の意味を ねぇ教えて
+届きそうで届かない
+I'm losing my mind... oh, god
+戻れない (Ooh ooh)
+どこにでも君がいる
+You got me (Ooh ooh)
+この魔法は解けそうにないや
+Now I'm questioning
+How do you feel 'bout me?
+近づけないあとちょっと
+溺れたい (Ooh ooh)
+僕の方を見て Sapphire
+攻略方法も How to も無い
+僕が僕じゃなくなる eye-to-eye
+あと5秒 いや一瞬でいい
+その瞳に映っていたい
+言葉も出ない
+余裕も持てない
+他の奴と違って僕にだけそっけない
+らしくないなんて
+わかってたって my bad
+ねぇどうして? (I wonder why?)
+隠せない (Ooh ooh)
+どうしても君が要る
+You got me (Ooh ooh)
+その態度に胸が痛いや
+Now I'm questioning
+How do you feel 'bout me?
+近づきたいあとちょっと
+やるせない (Ooh ooh)
+僕の方を見て Sapphire
+I don't know what to do, don't know how to do it
+どんな行動が一体正解?
+I'm so into you
+これだけは嘘じゃ無いよ baby
+汗をかいたグラスに
+薄くなったウイスキー
+君を見失ったフロア 騒々しさが憎い
+時間が止まる (What the hell)
+蒼く染まる (Goddamn)
+振り向いたそこに
+綺麗に笑う君が立ってる
+もうどうしようもない
+僕を見て
+(Ooh ooh)
+すぐそこに君がいる
+You got me (Ooh ooh)
+その魔法に染まっていたいや
+Now I'm questioning
+How do you feel 'bout me?
+眩しさに眩んだって
+伝えたい (Ooh ooh)
+僕を包んだ Sapphire
+```
